@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int n,temp,avgwt = 0,avgtat = 0 ;
+    int i,n,temp,avgwt = 0,avgtat = 0 ;
     printf("\n Enter no of processes : ");
     scanf("%d",&n);
     int p[10] ,bt[10] ,at[10],wt[10],tat[10],st[10];
